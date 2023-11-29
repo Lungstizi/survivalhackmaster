@@ -8,6 +8,8 @@ published: true
 
 Image Source: FreeImages
 ‍![poster-explaining-concept-explainable-ai-ethics-data-privacy-concept-design-creative_655090-475245.avif]({{site.baseurl}}/_posts/poster-explaining-concept-explainable-ai-ethics-data-privacy-concept-design-creative_655090-475245.avif)
+![ai image]({{site.baseurl}}/_posts/35c5c4b1-03b1-4245-95a7-66d2beef988d.png)
+
 
 ## The evolution begins
 
